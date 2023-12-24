@@ -1,0 +1,30 @@
+[submodule "pack/bundle/start/nerdtree"]
+	path = pack/bundle/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "pack/bundle/start/echodoc.vim"]
+	path = pack/bundle/start/echodoc.vim
+	url = https://github.com/Shougo/echodoc.vim.git
+[submodule "pack/bundle/start/SimpylFold"]
+	path = pack/bundle/start/SimpylFold
+	url = https://github.com/tmhedberg/SimpylFold.git
+[submodule "pack/bundle/start/tabulous"]
+	path = pack/bundle/start/tabulous
+	url = https://github.com/webdevel/tabulous.git
+[submodule "pack/bundle/start/vim-commentary"]
+	path = pack/bundle/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "pack/bundle/start/vim-easy-align"]
+	path = pack/bundle/start/vim-easy-align
+	url = https://github.com/junegunn/vim-easy-align.git
+[submodule "pack/bundle/start/vim-markdown-folding"]
+	path = pack/bundle/start/vim-markdown-folding
+	url = https://github.com/masukomi/vim-markdown-folding.git
+[submodule "pack/bundle/start/vim-repeat"]
+	path = pack/bundle/start/vim-repeat
+	url = https://github.com/tpope/vim-repeat
+[submodule "pack/bundle/start/vim-surround"]
+	path = pack/bundle/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "pack/bundle/start/vim-godot"]
+	path = pack/bundle/start/vim-godot
+	url = https://github.com/habamax/vim-godot.git
